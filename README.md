@@ -1,6 +1,6 @@
 # Advent of Code 2022
 
-My solutions for Advent of Code 2022, written in Python 3.
+My solutions for [Advent of Code 2022](https://adventofcode.com/2022/), written in Python 3.
 
 ## Running a solution
 
